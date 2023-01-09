@@ -1,0 +1,9 @@
+node_modules
+servers/node_modules
+.env
+core
+databases/*/*.sql*
+bot/config.json
+bot/config/config.json
+bot/config/config.js
+!config-example.json
